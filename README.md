@@ -1,4 +1,4 @@
-Hi 👋 My name is Nasim
+Hi 👋 I'm Nasim
 =======================
 
 Software developer and designer
